@@ -47,9 +47,7 @@ A full-stack productivity platform with task tracking, habit monitoring, journal
 - Secures authentication/authorization with JWT and state management using Redux Toolkit.
 - Designed a mobile-responsive UI with Tailwind CSS and optimized database queries in MongoDB.
 
-📂 [Repository](https://github.com/hellydiyora/synclife)
-
-[![Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/hellydiyora/synclife)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/hellydiyora/SyncLife)
 
 ---
 
@@ -57,16 +55,29 @@ A full-stack productivity platform with task tracking, habit monitoring, journal
 A React-based application for browsing, sorting, and reviewing books.
 
 **Tech:** React.js, JavaScript, HTML, CSS  
-- Implemented dynamic filtering & sorting  
-- Designed reusable UI components  
+- Built a React-based platform to view and sort books by genre, with a blog system for community reviews.
+- Enhanced usability by creating clean UI/UX with ReactJS components.
 
+[![Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/hellydiyora/StoryKeeper)
 ---
 
 ### 🔹 EcoEssence – Sustainable Waste Management Platform
 A web platform for collecting and managing floral waste.
 
 **Tech:** PHP, MySQL, HTML, CSS, JavaScript  
+- Created a web platform to collect and manage floral waste, enabling users to donate flowers for eco-friendly incense stick
+production.
 
+[![Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/hellydiyora/EcoEssence)
+---
+
+### 🔹 ChefSpot – Chef finder Platform
+A web platform for finding chefs in your locations.
+
+**Tech:** PHP, MySQL, HTML, CSS, JavaScript  
+- Created a web-based application designed to help users find and connect with professional chefs for events, personal dining, or home cooking experiences.
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/hellydiyora/ChefSpot)
 ---
 
 ## 📊 What I’m Currently Working On
