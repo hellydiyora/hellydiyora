@@ -41,12 +41,15 @@ Git, GitHub, Postman, VS Code, Google Cloud Platform
 
 ### 🔹 SyncLife – Self Management Web Application
 A full-stack productivity platform with task tracking, habit monitoring, journaling, and mood analysis.
-[View Repository](https://github.com/hellydiyora/synclife)
 
-**Tech:** React.js, Node.js, Express.js, MongoDB, Redux Toolkit, JWT  
-- Implemented secure authentication & authorization  
-- Built scalable REST APIs  
-- Designed responsive UI using Tailwind CSS  
+**Tech:** React.js, Node.js, Express.js, MongoDB, Redux Toolkit, JWT, Tailwind CSS
+- Created a full-stack productivity platform with task management, habit tracking, mood analysis, and journaling modules.
+- Secures authentication/authorization with JWT and state management using Redux Toolkit.
+- Designed a mobile-responsive UI with Tailwind CSS and optimized database queries in MongoDB.
+
+📂 [Repository](https://github.com/hellydiyora/synclife)
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/hellydiyora/synclife)
 
 ---
 
