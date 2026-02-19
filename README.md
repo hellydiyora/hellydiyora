@@ -19,7 +19,6 @@ I am currently seeking Summer 2026 internship or co-op opportunities in Software
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://helly-diyora.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helly-diyora-160203h/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyora.h@northeastern.edu)
-[![Resume](https://img.shields.io/badge/Resume-Download-2E8B57?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](YOUR_RESUME_LINK_HERE)
 
 ---
 
