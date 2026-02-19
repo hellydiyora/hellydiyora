@@ -41,6 +41,7 @@ Git, GitHub, Postman, VS Code, Google Cloud Platform
 
 ### 🔹 SyncLife – Self Management Web Application
 A full-stack productivity platform with task tracking, habit monitoring, journaling, and mood analysis.
+[View Repository](https://github.com/hellydiyora/synclife)
 
 **Tech:** React.js, Node.js, Express.js, MongoDB, Redux Toolkit, JWT  
 - Implemented secure authentication & authorization  
